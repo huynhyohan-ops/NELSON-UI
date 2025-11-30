@@ -12,7 +12,7 @@ from collections import defaultdict
 
 # ============ CONFIGURATION ============
 DATA_DIR = Path(__file__).parent.parent / "data"
-MAX_RESULTS = 5
+MAX_RESULTS = 3
 
 CSV_CONFIG = {
     "style": {
