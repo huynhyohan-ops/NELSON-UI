@@ -2,6 +2,10 @@
 
 An AI skill that provides design intelligence for building professional UI/UX across multiple platforms and frameworks.
 
+<p align="center">
+  <img src="screenshots/website.png" alt="UI UX Pro Max" width="800">
+</p>
+
 ## Overview
 
 UI UX Pro Max is a searchable database of UI styles, color palettes, font pairings, chart types, product recommendations, UX guidelines, and stack-specific best practices. It works as a skill/workflow for AI coding assistants (Claude Code, Cursor, Windsurf, etc.).
@@ -46,12 +50,12 @@ uipro init --version v1.0.0 # Install specific version
 
 Copy the appropriate folders to your project:
 
-| AI Assistant | Folders to Copy |
-|--------------|-----------------|
-| Claude Code | `.claude/skills/ui-ux-pro-max/` |
-| Cursor | `.cursor/commands/ui-ux-pro-max.md` + `.shared/ui-ux-pro-max/` |
-| Windsurf | `.windsurf/workflows/ui-ux-pro-max.md` + `.shared/ui-ux-pro-max/` |
-| Antigravity | `.agent/workflows/ui-ux-pro-max.md` + `.shared/ui-ux-pro-max/` |
+| AI Assistant | Folders to Copy                                                   |
+| ------------ | ----------------------------------------------------------------- |
+| Claude Code  | `.claude/skills/ui-ux-pro-max/`                                   |
+| Cursor       | `.cursor/commands/ui-ux-pro-max.md` + `.shared/ui-ux-pro-max/`    |
+| Windsurf     | `.windsurf/workflows/ui-ux-pro-max.md` + `.shared/ui-ux-pro-max/` |
+| Antigravity  | `.agent/workflows/ui-ux-pro-max.md` + `.shared/ui-ux-pro-max/`    |
 
 ## Prerequisites
 
