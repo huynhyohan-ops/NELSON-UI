@@ -135,8 +135,4 @@ Just mention your preferred stack in the prompt, or let it default to HTML + Tai
 
 ## License
 
-This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
-
-- **Free for personal use** - Use, modify, and share for non-commercial purposes
-- **Attribution required** - Credit "UI UX Pro Max" when sharing
-- **No commercial use** - Cannot be used for commercial purposes without permission
+This project is licensed under the [MIT License](LICENSE).
